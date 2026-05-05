@@ -13,6 +13,8 @@ An interactive Drum Kit Web Application built using HTML, CSS, and JavaScript th
 This project demonstrates how JavaScript handles event listeners and audio playback in a browser.
 
 🛠️ Tech Stack
+
+
 HTML5 – Structure
 CSS3 – Styling
 JavaScript (Vanilla JS) – Functionality
